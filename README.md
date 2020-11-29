@@ -28,7 +28,7 @@ npm i nodemon -D
 
 ##### Step 3: Create app.js
 
-```
+```js
 //Use dotenv to read .env vars into Node
 require('dotenv').config();
 const express = require('express');
@@ -56,7 +56,7 @@ app.listen(port, () => console.log(`Example app listening on port!`, port));
 
 ##### Step 4: Start the Node JS server using nodemon ( Development )
 
-```
+```js
 nodemon app.js
 ````
 
