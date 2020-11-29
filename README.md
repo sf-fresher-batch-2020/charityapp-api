@@ -13,7 +13,7 @@ cd charityapp-api
 ##### Step 1: Create npm project
 
 ```
-npm init
+npm init -y
 ```
 
 ##### Step 2: Install Dependencies
