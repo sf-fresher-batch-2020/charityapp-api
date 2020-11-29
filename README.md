@@ -6,7 +6,7 @@
 ##### Clone the Project 
 
 ```
-git clone https://github.com/sf-fresher-batch-2020/charityapp-api
+git clone https://github.com/sf-fresher-batch-2020/charityapp-api.git
 cd charityapp-api
 ```
 
