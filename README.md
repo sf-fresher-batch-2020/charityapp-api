@@ -78,5 +78,6 @@ web: node app.js
 ```
 git add package.json package-lock.json app.js Procfile
 git commit -m "Added REST API "
+git pull origin main
 git push -u origin main
 ```
